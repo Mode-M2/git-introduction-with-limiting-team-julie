@@ -1,6 +1,8 @@
-title: "Etude sur les manchots"
-author: "Cyrielle Moreau"
-date: "9/2/2023"
+---
+title: "Manchots study"
+author: "Jerry et les totally spies"
+date: "9/21/2023"
+>>>>>>> 38d391357a93517908560036d5167ebdda9bbade
 output: html_document 
 ---
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
