@@ -1,5 +1,5 @@
 ---
-title: "Etude sur les manchots"
+title: "Manchots study"
 author: "MP Etienne MODE"
 date: "9/2/2023"
 output: html_document 
